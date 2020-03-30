@@ -1,0 +1,947 @@
+eccentric 			: unconventional ; strange ; peculiar
+detrimental 		: causing harm ; cause of failure
+misconstrue			: misinterpret
+autocratic			: tyrannical ; independent (incorrect)
+tyrannical 			: exercising power in a cruel way
+equitable			: fair
+deliberate			: consider carefully (think deliberately vs intentionally)
+meteoric			: very rapid (used in both positive and negative context)
+enthrall			: captivate ; capture interest
+bolster				: support
+frugal				: spending wisely
+lucid/pellucid		: clear ; easy to understand
+impervious			: unaffected by ; unfazed by
+exorbitant			: excessive ; unreasonably high (usage - exorbitant prices)
+intermittent		: occurring on and off ; in between (incorrect) ; occurring at irregular intervals
+enamored			: charmed ; be filled with love for ; (usage - she is enamored of JB.)
+derivative			: unoriginal
+ornate				: elaborately decorated
+thrifty				: wise with money
+empiricism			: action based on practice ; the theory that all knowledge is based on experience derived from the senses
+martial				: war-like
+marital 			: related to marriage
+nonchalant			: appearing unconcerned
+erratic				: highly irregular ; prone to error (incorrect)
+palatable			: acceptable ; satisfactory
+evasive				: avoiding commitment
+impede				: slow down ; delay or prevent (someone or something) by obstructing them ; hinder
+obtuse				: slow to learn ; (usage - he is an obtuse learner.)
+steadfast			: unwavering ; resolute ; firm
+perennial			: everlasting
+pith				: most essential part (usage - the pith of the argument)
+spartan				: unconcerned with comfort
+duplicity			: deceitful
+banal				: cliché ; unoriginal
+discord				: disagreement
+unassailable		: immune to attack ; unquestionable ; impregnable
+jocular				: humorous
+dupe				: swindle ; a fraudulent action
+miser 				: cheap (used in negative context) ; negative version of frugal/thrifty
+row					: angry dispute
+ingenious			: clever ; original ; inventive
+ingenuous			: innocent ; unsuspecting ; honest
+disingenuous		: pretending to be honest
+indecorous			: improper ; impolite ; not following decorum
+badger/pester		: trouble or annoy (someone) with frequent or persistent requests or interruptions
+equivocate			: speak vaguely ; be neutral (incorrect)
+muted				: softened ; (usage - i like the muted colors used in a movie)
+irk					: annoy
+cerebral			: brainy
+thwart				: block
+veritable			: without a doubt
+espionage			: the practice of spying or of using spies, typically by governments to obtain political and military information.
+entice				: tempt
+panacea				: a method that solves everything ; (usage - octopus card is a panacea)
+heyday				: pinnacle
+improvident			: not having or showing foresight ; spendthrift or thoughtless
+upheaval			: a violent or sudden change or disruption to something
+assiduously			: with great care
+hound				: pursue relentlessly
+provisional 		: not final ; just for the time being
+forthright			: honest ; forward in speaking
+forthcoming			: cooperative
+cornucopia			: abundant supply
+effervescent		: enthusiastic ; bubbly ; Emilia Clarke
+patronize			: treat condescendingly
+aphorism			: short saying
+copious				: abundant
+profuse				: abundant
+tirade				: angry speech
+elicit				: evoke ; draw out
+illicit				: forbidden by law, rules, or custom
+reverent			: a respectful person
+reverend			: a position in clergy
+scrupulous			: using extreme care ; (usage - scrupulous nature)
+bemoan/lament		: express discontent or sorrow over
+cede				: give up control
+elude				: fail to be grasped
+allude				: suggest or call attention to indirectly ; hint at
+squelch				: suppress forcefully
+contentious			: controversial
+meander				: wander
+despot				: tyrant
+obstinate			: stubborn ; refusing to change
+abstinent			: refraining from an activity (usage - i am totally abstinent from alcohol)
+complaisant			: cheerfully obedient
+incontrovertible	: indisputable
+conducive			: helpful ; had a contribution in
+myriad				: large number
+ossify				: harden ; become stagnant
+tyro				: beginner
+virtuoso			: expert
+morose				: sad ; gloomy
+expunge				: erase
+desecrate 			: ruin something holy
+evanescent			: short lived
+maverick			: radical thinker ; free spirited
+loathe				: hate-filled
+loath				: reluctant
+admonish			: warn
+pertinent			: relevant
+chauvinism			: over patriotism
+chivalrous			: courteous
+discreet			: hidden ; secret
+discrete 			: at intervals
+termagant			: virago
+harridan			: virago
+henpecked			: dominated by wife
+uxorious			: catering way too much to wife
+incinerate			: destroy by burning
+incarcerate			: imprison ; confine
+incarnate			: present in human form
+insinuate			: suggest in an indirect/unpleasant way ; slip in smoothly
+pyromaniac			: starts fire for fun and thrill
+incendiary			: starts fire for revenge
+arsonist			: starts fire for monetary gains
+gratification		: pleasure, especially when gained from the satisfaction of a desire
+venerable			: a respectable person
+inhibited			: restricted by ones own psyche or self-consciousness
+abject				: experienced or present to the maximum degree
+niggardly			: stringy, penurious, parsimonious
+ephemeral			: evanescent
+bromide, platitude	: cliché, triteness
+anodyne				: words speaker doesn't believe in but try to soothe the listener
+surreptitious		: stealthy, secretive (movements)
+clandestine			: stealthy, secretive (plans)
+commiserate			: try to soothe someone after bereavement
+capitulate			: surrender (arrange conditions of)
+dissimulate			: hide true feelings and show opposite (for deceit/duplicity)
+dissemble			: hide one's true feelings
+ambivalent			: having mixed feelings or contradictory ideas about something ; vacillate
+capricious			: changing according to no discernible rules ; unpredictable
+diminutive			: extremely or unusually small
+belie 				: fail to give a true impression of (something)
+erudite				: having or showing great knowledge or learning
+sedulous			: diligent ; hard working
+deferential			: a respectful person
+incongruity			: the state of disagreement
+deterrent			: preventive ; opposite of reward ; usage - capital punishment is a deterrent for lethal crimes
+idolatry			: worship of images as if they were gods ; reverence
+perfunctory 		: done as part of a routine or duty ; with low enthusiasm
+burnished			: polished ; done exceedingly well ; usage - burnish the resume to perfection
+obstreperous		: noisy and difficult to control
+confound			: to confuse someone
+propitiate			: win over or regain the favor of someone by doing something that appeases them
+probity				: being morally and ethically above reproach ; having integrity
+relegate			: to assign to a lower position
+boorish				: unruly
+subside				: decrease in intensity ; settle down
+approbation			: approval ; endorsement
+abstruse			: tough to understand ; complicated
+esoteric			: tough to understand ; complicated
+recondite			: tough to understand ; complicated
+welter				: enormous, messy pile ; usage - the items in the pile welter every time someone tries to pull something ; usage - his office work keeps him weltered
+elegy				: a sad poem, usually written to praise and express sorrow for someone who is dead
+rescind				: cancel ; revoke
+abscond				: to run away, often taking something along
+disseminate			: spread something widely
+austere				: living life of no comforts ; like a monk ; ascetic
+flout				: openly disregard (say, a law)
+didactic			: in the manner of a teacher, particularly so as to appear patronizing
+humdrum				: lacking excitement or variety ; boringly monotonous
+quixotic			: extremely idealistic ; not realistic 
+insipid				: lacking flavor ; dull ; boring
+proclivity			: a tendency to do something regularly
+spendthrift			: prodigal ; spend money in extravagant way
+puerile				: childishly silly and immature
+cursory				: hasty and therefore not thorough or detailed
+boisterous			: noisy, energetic, excited
+imprudent			: not showing care for the consequences of an action ; rash
+propriety			: conformity to conventionally accepted standards of behavior or morals
+lionize				: treat someone as a celebrity
+demurred			: show reluctance
+brazen				: bold and without shame
+phlegmatic			: unemotionally calm
+pragmatic			: dealing with things sensibly and realistically
+calumnies			: slanders
+avaricious			: extremely greedy for wealth
+contrite			: remorseful of ones actions
+craven				: contemptibly lacking in courage ; cowardly
+contempt 			: the feeling that a person or a thing is worthless or beneath consideration
+desiccated			: having had all moisture removed ; dried out ; lifeless
+abate				: become less intense
+burgeon				: begin to grow rapidly ; flourish
+diffident			: modest or shy because of a lack of self-confidence 
+timorous			: modest or shy because of a lack of self-confidence 
+arcane				: mysterious
+chicanery			: deception
+censure				: express severe disapproval
+bucolic				: rustic
+desultory			: lacking a plan, purpose or enthusiasm ; half-hearted
+vapid				: offering nothing that is stimulating or challenging ; bland
+acerbic				: caustic ; sarcastic ; sharp and forthright
+alluring			: attractive
+dilatory			: slow and sluggish
+assuage				: abate ; reduce something in intensity
+abjure				: reject ; solemnly renounce a law or a belief
+solemnly 			: in a formal and dignified manner
+copious				: a huge number
+dubious				: not to be relied upon ; suspect
+canonize			: think highly of something ; glorify
+exacerbate			: make something worse ; antonym of ameliorate
+invigorate			: give strength
+prudent				: wise ; judicious ; showing care for future
+inimical			: hostile
+polemical			: a strongly critical (speech or writing)
+fervid				: over enthusiastic
+punctilious			: pedantic ; showing great attention to detail or correct behavior
+hedonistic			: in pursuit of pleasure
+impertinent			: a disrespectful person
+insolent			: a disrespectful person
+frivolous			: carefree and superficial
+discernible			: noticeable ; perceptible
+zealot				: fanatic ; over enthusiastic
+imperious 			: arrogant ; assuming authority
+plodding			: moving very slowly ; lumbering
+prosaic				: dull and boring
+panache				: flamboyance ; style
+droll				: funny ; humorous
+profligate			: extravagantly wasteful ; prodigal
+restive				: unruly and loud
+specious			: superficially correct (good) but actually wrong (bad)
+swindle				: deceive
+engender			: make something happen
+tortuous			: full of twists and turns
+feign 				: fake something (usually an injury)
+doggedness			: showing persistence ; never give up
+tenacity			: showing persistence ; never give up
+pertinacious		: showing persistence ; never give up
+diligence			: careful and persistent work
+intransigent		: rigid on one's opinions and views
+spurious			: fake
+venal 				: corrupt
+affectation			: behavior, speech, or writing that is pretentious and designed to impress
+buttress			: support
+pariah				: outcast
+ravenous			: very hungry
+inchoate			: not fully formed
+ebullient			: effervescent ; enthusiastic
+chagrin				: dismay
+nettlesome			: annoying
+lachrymose			: weepy
+conceited			: vain ; too proud of oneself
+reproach			: express disapproval
+salubrious			: health-giving ; healthy
+dour 				: stern
+clamor				: loud noise ; racket
+indolent			: lazy
+tendentious			: one-sided
+insular				: provincial ; narrow-minded
+explicable			: understandable
+neophyte			: amateur
+perfidy				: deceitfulness ; artfulness
+skulduggery			: deceitfulness ; artfulness
+pernicious 			: having a slow and harmful effect
+accentuate			: to make something more prominent ; highlight
+sagacious			: sage like wise
+appalling			: causing shock or dismay ; horrific
+galvanize			: excite someone to do something
+pugnacious			: eager to argue, fight ; combative
+bellicose			: eager to argue, fight ; combative
+truculent			: eager to argue, fight ; combative
+ousted				: removed from a position
+idiosyncratic		: unique, peculiar to someone
+sanguine			: optimistic
+exploitative		: unfairly using others for own advantage
+animated			: excited
+gainsay				: defy ; contradict ; speak against someone
+inimitable			: so unique it can't be copied
+unassuming			: not pretentious or arrogant ; modest
+reticent			: shy ; not revealing one's feelings easily
+quirky				: having peculiar or unexpected traits
+precocious			: wise for the age
+testy				: easily irritated ; impatient
+forbear				: refrain ; abstain
+mordant				: having or showing a sharp or critical quality ; caustic ; acerbic
+deleterious			: harmful ; damaging
+trifle 				: unimportant thing
+unprecedented		: never done or known before
+repudiate			: proven to be false ; contradicted
+substantiate		: provide evidence to support or prove the truth of
+brook				: tolerate ; handle ; deal with
+balk (at)			: hesitate or be unwilling to accept an idea or undertaking ; thwart
+fecund				: highly fruitful ; highly fertile
+impetuous			: impulsive ; rash ; careless
+edify				: provide moral or intellectual instruction
+outstrip			: move faster than and overtake (someone else)
+connive				: secretly allow (or even conspire for) (something immoral, illegal, or harmful) to occur
+impediment			: obstacle
+foolhardy			: stupid ; rash
+comity 				: courtesy and considerate behavior towards others
+felicitous			: appropriate ; well chosen according to circumstances
+tact 				: skill and sensitivity in dealing with others or with difficult issues
+irascible			: short-tempered ; gets angry easily
+eviscerate			: deprive something of its essential contents
+ascribe				: attribute to
+portend				: be a sign or warning that something is likely to happen ; harbinger
+enchanting			: delightfully charming or attractive
+eschew				: abstain from
+expedite			: hasten up something ; make something happen sooner
+antithesis			: opposite
+exculpate			: declare someone innocent
+vindicate			: declare someone innocent
+absolve				: declare someone innocent
+vindictive			: having or showing a strong or unreasoning desire for revenge
+slight				: insult (someone) by treating or speaking of them without proper respect or attention
+spurn				: insult (someone) by treating or speaking of them without proper respect or attention
+savored				: enjoy something to the full
+riveting			: completely engrossing ; compelling
+riveted				: to hold someone fast so as to make them incapable of movement
+fastidious			: very careful and attentive ; pedantic ; punctilious
+sullen				: a mix of sad and angry
+sulky				: a mix of sad and angry
+giddy				: dizzy
+pensive				: engaged in a deep, serious thought
+befuddled			: perplexed ; confused ; confounded
+salutary			: beneficial
+supersede			: displace something
+supplant			: displace something
+contrive			: create or bring about a situation deliberately
+extraneous			: irrelevant or unrelated to the subject being dealt with
+outmoded			: old-fashioned ; archaic
+permeate			: spread throughout something
+persiflage			: banter
+pillage				: rob using violence, especially in wartime
+rapacious			: greedy
+perilous			: dangerous
+skirt				: periphery (noun) ; ignore, sidestep, circumvent (adjective)
+color 				: influence
+sordid				: involving immoral or dishonorable actions and motives
+detest				: hate
+limpid				: clear ; understandable
+disjointed			: lacking a coherent sequence or connection
+mawkish				: over-emotional ; over-sentimental
+debilitate			: make something very weak
+fractious			: irritable ; quarrelsome ; unruly
+predilection		: fondness ; a bias in favor of something
+penchant			: proclivity ; a tendency or fondness to do something
+churlish			: rude ; ill-mannered
+ostentatious		: characterized by pretentious or showy display
+ruminate			: think deeply about something
+persecute			: subject (someone) to hostility and ill-treatment, especially because of their race, political, religious beliefs
+dogmatic			: If you are dogmatic, you are certain that you are right and that everyone else is wrong
+ratify				: give formal consent
+vitiate				: impair or spoil something
+tenable				: a justifiable plan or idea
+distressed			: suffering from anxiety
+fungible			: substitutable
+deadpan				: expressionless
+verisimilitude		: realistic ; life like
+opprobrium			: strong censure, criticism
+dwindle				: reduce in size, intensity
+canny				: smart and clever
+uncanny				: strange, mysterious, peculiar
+eclipsed			: overshadowed
+onerous				: cumbersome, difficult
+transgression		: unlawful act
+acrimonious			: angry, bitter, spiteful
+exasperated			: frustrated ; annoyed
+belligerent			: hostile, aggressive
+tempest				: a violent storm
+tempestuous			: violent, radical behavior
+numinous			: having a strong religious or spiritual quality
+obscure				: not discovered or known ; hidden
+fervor				: passion, zeal
+baroque				: ornate design
+conciliatory		: intended or likely to placate or pacify
+invidious			: unpleasant ; awkward 
+countenance			: give support or approval
+byzantine			: complicated
+trenchant			: vigorous or incisive in expression or style
+crabby				: irritable and impatient
+inborn				: existing from birth or natural for a person
+astringent			: caustic ; acerbic ; negative ; toxic
+umbrage				: offense or annoyance ; take umbrage at
+subservient			: compliant
+torpor				: lethargy
+titillate			: arousing mild sexual excitement or interest
+tantalize			: entice ; excite
+tantamount			: equivalent
+deride 				: mock ; ridicule
+flummoxed			: confused ; perplexed
+acquiesce			: accept something reluctantly but without protest
+polymath			: a person of wide knowledge ; well learned
+virulent			: hostile
+unscrupulous		: immoral
+scruples			: moral values
+elated				: thrilled
+entrenched			: firmly established and difficult or unlikely to change
+sensational			: causing excitement OR over-dramatic
+veracity			: honesty ; truthfulness
+understated			: subtle
+strife				: conflict
+forsake				: abandon
+predicament			: a difficult or embarrassing situation
+stolid				: calm, dependable, and showing little emotion or animation
+impassive			: passive ; calm and showing little emotion
+superfluous			: unnecessary ; wasteful
+relinquish			: voluntarily give up control
+fester				: worsen
+heretical			: believing in or practicing religious heresy
+heresy				: belief or opinion contrary to orthodox religious ; blasphemy
+cynic				: believer in the thought that people are motivated by selfish desires
+antedate			: precede ; come before
+lambaste			: criticize harshly
+feckless			: incompetent
+synoptic			: abbreviated
+crestfallen			: depressed
+ecstatic			: euphoric ; feeling of pure joy
+skittish			: nervous, easily scared (for animal) ; playfully frivolous, unpredictable (for person)
+bridle				: constraint ; control
+attrition			: the process of reducing strength or effectiveness through sustained attack or pressure
+circumscribe		: restrict something within limits
+tepid				: lukewarm ; low enthusiasm
+stupendous			: extremely impressive
+sanctimonious		: preachy ; pious ; self-righteous
+succinct			: clearly expressed
+upbraid				: scold
+petulant			: ill-tempered ; moody
+divulge				: reveal ; make known
+patent (adj.)		: clear ; obvious
+cataclysm			: a large-scale violent event
+supple				: pliant ; pliable ; malleable
+sidestep			: avoid something
+affray				: an instance of group fighting in a public place that disturbs the peace
+acquisitive			: greedy ; trying to acquire
+discounted			: disregarded
+voluminous			: lengthy and detailed
+manacled			: (put in handcuffs) restrained
+aversion			: hatred
+prolix				: a writing or speaking style that contains way too many words
+dissident			: a person who opposes official policy, especially that of an authoritarian state
+blithe				: showing a casual attitude towards life
+truism				: obviously true
+dawdle				: limber ; move too slowly
+unseemly			: crass ; violating societal norms
+attenuate			: weaken
+abet (abetted)		: helped
+eclectic			: deriving ideas and style from a variety of sources
+sombre				: dark or dull in tone
+inveigle			: persuade someone by means of deception
+prevaricate			: speak in an evasive way ; avoiding direct answers
+pedestrian			: not innovative ; dull
+parochial			: narrow minded
+discomfit			: make someone feel uneasy or embarrassed
+gawky				: awkward
+munificent			: generous
+facetious			: treating serious issues with deliberately inappropriate humor
+flippant			: treating serious issues with deliberately inappropriate humor ; disrespectful
+acolytes			: followers
+dissent 			: disagreement
+recrudescent		: coming back again ; reviving
+jettisoned			: abandoned or discarded
+coercion			: forcing someone to act against their will
+distill				: extract the pith of ; summarize
+florid				: excessively elaborate
+mendacity			: untruthfulness
+firebrand			: troublemaker
+inundate			: flood ; completely filled with
+pecuniary			: relating to money
+malfeasance			: misconduct
+exonerate			: free from blame ; vindicate
+retiring			: shy
+vitriolic			: harsh in tone
+domineering			: imperious
+inviolate			: sacred ; free or safe from injury or violation
+moribund			: about to die
+gaffe				: social blunder
+exalt 				: praise highly
+gambit				: scheme
+telltale			: revealing
+histrionic			: overly theatrical
+antic				: grotesque
+bastardization		: corruption
+vocation			: a strong feeling of suitability for a particular career or occupation
+libertine			: philanderer
+stalwart			: loyal, reliable and hard working ; Jorah Mormont
+modish				: modern and fashionable
+flaky				: breaking or separating easily into flakes
+concoct				: build something (concoct a story means tell a false tale)
+dainty				: delicate and tiny (for objects) ; fastidious (for humans)
+squeamish			: easily made to feel sick or disgusted ; Vedarth Choksi
+expedient			: convenient and practical although possibly improper or immoral
+glum				: gloomy ; melancholic
+schism				: division ; conflict
+terse				: abrupt ; concise in use of words
+long-winded			: continuous at a tedious length
+nascent				: new
+fledgling			: new ; immature ; inexperienced
+vanquish			: defeat ; usage - vanquish your desires
+largesse			: generosity
+prowess				: ability
+brevity				: concise and exact use of words in writing or speech
+providential		: occurring at a fortunate time
+keep abreast		: be aware of
+cathartic			: relieving through open expression of emotions
+fortitude			: courage
+wherewithal			: funds to do something
+avers 				: asserts
+dispense			: get rid of ; spread
+barrage				: flood
+goad				: provoke
+fortuitous			: opportune ; fortunate
+repertoire			: set of skills
+emancipation		: liberation
+indictment			: a formal charge or accusation of a serious crime
+hortatory			: preachy
+promulgate			: make an idea widely known ; promote an idea
+pretension			: a claim or assertion of a claim to something ; use of affectation to impress
+blemish				: a moral defect or a flaw
+commensurate		: proportional in degree or size
+kindred				: one's family and relations
+imperative			: crucial
+herald				: be a sign that (something) is about to happen ; harbinger
+marginalize			: treat something as peripheral or insignificant
+percipient			: perceptive ; attentive
+mellifluous			: sweet-sounding
+flush 				: abundant
+encumber			: hold back
+incumbent			: necessary as a duty ; currently holding office
+maxim 				: short saying
+baleful				: dangerous ; threatening
+officious			: meddlesome
+reprisal			: retaliatory action
+ethereal			: extremely delicate
+subterfuge			: deceit
+hauteur				: extreme pride
+magisterial			: domineering
+complicit			: taking part in
+surfeit				: excessive amount
+stymie				: hinder
+cosseted			: care for and protect in an overindulgent way
+pampered			: care for and protect in an overindulgent way
+pine 				: yearn
+aplomb				: coolness under strain
+vituperate			: scold harshly
+disabuse			: persuade (someone) that an idea or belief is mistaken
+quandary			: dilemma
+ribald				: comically vulgar
+bristle				: react angrily
+curmudgeon			: habitually grumpy
+grouch				: habitually grumpy
+peripatetic			: traveling from place to place
+nomadic				: traveling from place to place
+itinerant			: traveling from place to place
+vagabond			: traveling from place to place without home or job
+vehement			: intensely emotional
+cow 				: intimidate
+enormity			: a great crime or a sin
+philistine			: hater of culture and arts
+inkling				: a slight knowledge ; a hint
+self-effacing		: modest
+effrontery			: insolent or impertinent behavior
+impudence			: disrespect
+replete				: fully stocked ; antonym of deplete
+retribution			: revenge
+skirmish			: an episode of unpremeditated fighting
+penance				: punishment inflicted on oneself as an outward expression of repentance for wrongdoing
+unwieldy			: unmanageable
+heterodox			: opposite of orthodox ; unorthodox
+girth				: surround
+stinted				: restrict someone in the amount of money given
+fervent				: passionate
+qualms 				: uneasy feeling of doubt ; misgivings
+propensity			: tendency ; inclination
+foment				: cause ; start ; stir up ; agitate
+instigate			: bring about ; initiate
+oblivious			: not aware about something
+renege 				: fail to honor ; break (a promise) ; usage - he reneged on his promise
+arresting			: capturing attention ; eye-catching
+callous				: uncaring attitude ; utter disregard for others
+plummet				: decline sharply
+ascription			: the cultural tendency of assigning social status on the basis of birth
+enuresis			: bed-wetting
+skulk				: keep out of sight, typically with a sinister or cowardly motive ; lurk ; avoid your duties
+inquisitive			: curious
+scoundrel			: dishonest or unscrupulous ; rogue
+stowaway			: a person who secretly boards a vehicle
+reprieve			: cancel the punishment
+perch 				: rest on something
+protégé				: apprentice
+infringement		: violation
+rudimentary			: basic ; elementary ; primitive
+disenchanted		: disappointed ; let-down
+concede 			: admit wrongdoing ; surrender
+incessant			: not stopping
+puissant			: powerful
+precipitately		: hastily
+conflagration		: a large fire
+sardonic			: mocking
+nadir				: lowest point
+halcyon				: peaceful
+smug				: too much pride in oneself
+unpropitious		: unlikely to be successful
+extant 				: still in existence (usually for docs)
+amenable			: easily persuaded
+prodigious			: impressively great in extent or size
+frenzy				: a temporary madness
+lull				: a temporary break
+fawning				: obsequious ; sycophant
+precipitous			: suddenly ; steep ; meteoric fall
+regress				: worsen
+dole out 			: shell out ; give away
+ire 				: anger
+languid				: relaxed and peaceful OR enervated
+mollify				: assuage ; placate ; appease
+inflated			: full of ego
+duress				: coercion ; pressure
+nonplussed			: confused
+recourse			: alternative
+offset				: counteract ; neutralize
+exorcise			: remove ; eject
+finicky				: fussy about their needs ; punctilious
+poignant			: evoking a keen sense of sadness
+ironclad			: impossible to contradict or weaken
+surmount			: overcome
+denounce			: publicly declare to be wrong or evil
+depose				: remove (from office) suddenly and forcefully
+buoyant				: cheerful and optimistic
+perpetrate			: commit or carry out (a harmful act)
+subsume				: absorb
+becoming			: suitable
+clemency			: mercy
+endemic				: native
+diabolical			: wicked like a devil
+jingoist			: overly patriotic ; chauvinist
+consecrate			: make something holy
+hubris				: excessive pride
+solicitous			: showing concern for others
+epiphany			: sudden realization
+charlatan			: a person falsely claiming to have a special knowledge or skill
+malinger			: avoid work
+frustrate 			: prevent something from succeeding
+machinate			: make plans
+denouement			: the final part of a story
+tribulation			: suffering
+inure				: harden (as in a person)
+transmute			: alter in form
+catholic			: including a wide variety ; universal
+lacerate			: criticize severely
+countermand			: reverse a command
+ostracize			: exclude
+anemic				: lacking energy
+disenfranchise		: deprive someone of the right to vote
+dovetail			: fit together easily
+noisome				: foul-smelling
+apothegm			: short saying
+bombast				: pomposity
+fulminate			: express vehement protest
+quotidian			: occurring daily
+smitten				: be strongly attracted to someone or something
+gilded				: privileged ; wealthy
+indoctrination		: the process of teaching a person or group to accept a set of beliefs uncritically
+veneer 				: a disguising layer ; (usage - His NGO is just a veneer over his crimes)
+recrimination		: an accusation in response to one from someone else
+callow				: inexperienced
+impugn				: call into question
+expurgate			: ban something which is considered questionable
+concomitant			: naturally occurring together
+hedge				: to restrict (a statement)
+peruse 				: read closely
+rapprochement		: reconciliation
+hoary 				: trite ; cliché
+discursive			: tangential
+plucky				: courageous
+brusquely			: bluntly
+ponderous			: moving slowly
+genteel				: characterized by affected politeness or respectability
+obtain				: be prevalent or customary ; (usage - this custom doesn't obtain in some countries)
+ascendancy			: dominant position
+amok				: frenzied
+lampoon				: criticize using sarcasm
+evenhanded			: fair ; unbiased
+hoodwink			: deceive
+debonair			: sophisticated ; charming
+apprehension		: anxiety that something bad will happen ; understanding
+tawdry				: cheap but showy
+facile				: superficial
+wax					: increase gradually
+protean				: versatile
+imbroglio			: confusing situation
+pittance			: small amount
+indigent			: poor
+ineffable			: too great to be put into words
+kowtow				: bow to ; act in subservient manner
+snide 				: indirectly mocking
+inanity				: silliness
+inane 				: silly
+cupidity			: greed for money
+culminate			: reach high point
+mendicant			: beggar
+besotted			: strongly infatuated
+acme 				: highest point
+inclement			: lacking mercy
+glut				: an excessive supply
+germane				: relevant and appropriate
+emotive				: arousing intense feeling
+stilted				: stiff or self-conscious style of speaking or writing
+adage 				: a short saying
+vertiginous			: extremely high or steep ; arousing vertigo
+ignoble				: dishonorable
+behoove				: be someone's duty ; be suitable ; befit ; (usage - it behooves you to arrest him)
+implacable			: unable to be calmed
+factitious			: artificial
+quip				: a witty remark
+vaunt				: boast about something
+moot 				: irrelevant ; subject to debate, dispute, or uncertainty
+zeitgeist			: the mood of an era
+apposite			: appropriate
+prepossessing		: attractive and appealing in appearance
+glean				: obtain from various sources, often with difficulty
+eponymous			: derived from a name
+malapropism			: confusing similar words
+schadenfreude		: joy in other's suffering
+redress				: correct unfairness
+peevish				: irritable
+supercilious		: arrogant
+raconteur			: a brilliant storyteller
+junta				: a group that rules a country after taking power by force
+conflate			: combine into one ; mix together
+begrudge			: envy
+apotheosis			: culmination ; climax
+pontificate			: speak pompously
+cadaverous			: like a dead body
+excoriate			: criticize harshly
+deign 				: stoop ; (usage - i did not deign to answer the maid)
+jaundice			: bitterness ; resentment ; cynicism
+dispensation		: exemption
+atavism				: throwback
+besiege				: harass
+bilious				: testy ; grumpy
+besmirch			: dishonor
+guffaw				: laugh loudly
+proselytize			: attempt to convert
+jejune				: naive, simplistic and superficial
+epithet				: nickname
+sobriquet			: nickname
+suave				: charming, confident and elegant
+riposte				: a quick, clever reply to insult
+ordeal				: unpleasant and prolonged experience
+indignation			: anger provoked by unfair treatment
+dementia			: mental illness ; madness
+exhort				: strongly urge or encourage
+preposterous		: contrary to common sense ; stupid
+visceral			: relating to emotions / inner feelings than logic
+emphatic			: expressing forcibly and clearly ; means business
+renaissance			: revival ; renewal
+flounder			: struggle ; be in serious difficulty
+elude 				: escape or avoid ; dodge
+blathering			: long-winded talk with no real substance
+unravel				: undo ; untangle OR resolve ; reveal
+vilify				: speak or write in an abusively disparaging way
+invective			: insulting and abusive language
+panegyric			: a formal praise
+temerity			: excessive fearlessness ; audacity
+gumption			: resourcefulness
+obdurate			: stubborn ; unwilling to change opinion ; obstinate
+hegemony			: dominance ; leadership
+objurgate			: scold severely
+prognostication		: prediction
+arrogate			: seize without authority or justification
+wanton				: deliberate and unprovoked (action)
+choleric			: bad-tempered ; irritable
+tractable			: easily managed
+semblance			: misleading appearance
+graft 				: corruption
+lugubrious			: sad and dismal
+asperity			: harshness of manner
+immure 				: enclose someone against their will
+deprecate			: express disapproval
+deplore				: express disapproval
+plaintive			: sad and mournful
+immaculate			: without any flaws ; perfect
+abrogate			: repeal or do away with (a law)
+convalescent		: recovering from illness
+recuperate			: recover from illness
+portentous			: ominous ; foreshadowing
+sartorial			: relating to clothes
+profound			: very great or intense ; showing great knowledge
+supplicate			: beg ; plea
+entreat				: beg ; plea
+nimble				: quick and agile ; quick-witted
+acclamation			: loud and enthusiastic approval
+sequester			: leave ; abandon ; hide away
+mores 				: customs of life
+amnesty				: an official pardon
+stifle				: suffocate ; restrain
+pollyannaish		: overly optimistic
+broadside			: verbal attack
+hobble				: hold back
+basal				: forming the base
+quiescent			: inactive
+dormant				: inactive
+prolific			: creative ; widely spread
+contravene			: violate
+sap (noun)			: vigor and energy
+sap (verb)			: gradually weaken or destroy
+protract			: prolong ; extend
+furtive				: secretive ; surreptitious
+chimera				: illusion
+derelict			: in a poor condition because of ignorance and misuse ; negligent in duties
+delectable			: delicious
+innate 				: inborn ; natural
+impetus 			: momentum of a body
+slumber				: sleep
+obloquy				: strong public condemnation
+pastiche			: imitate the style of (an artist or work)
+encomium			: a formal praise
+internecine			: marked by internal strife
+buck				: oppose or resist
+ersatz				: fake
+embroiled			: got into an argument
+bumbling			: clumsy and confused
+piquant				: a sharp and spicy taste
+pungent				: a sharp taste or smell
+espouse				: support a cause
+untoward			: unexpected ; inconvenient ; inappropriate
+ineluctable			: unavoidable
+finagle				: obtain something by dishonest ways and trickery
+delirious			: in an acutely disturbed state of mind
+parvenu(e)			: once humble but now a celeb and arrogant (derogatory)
+upstart				: once humble but now a celeb and arrogant (derogatory)
+arriviste			: once humble but now a celeb and arrogant (derogatory)
+culpability			: state of guilt
+macabre				: gruesome
+demure 				: modest and shy
+apostate			: rejector of faith ; heretic
+turgid				: tediously pompous ; (usage - his novels are turgid)
+quail 				: show fear and apprehension
+guile				: sly ; cunningly intelligent
+hector				: bully
+paucity				: scarcity ; dearth of
+grovel				: lie or crawl on ground with face down ; act in obsequious manner for favor or forgiveness
+sybarite			: hedonist
+saturnine			: sombre and gloomy
+anathema			: something or someone that one vehemently dislikes
+litany				: a long and tedious account
+trammeled			: deprived of freedom
+coterminous			: equal in scope ; having same boundaries
+maunder				: meander ; wander
+docile				: submissive ; compliant
+rebuttal			: refutation
+stultify			: sap enthusiasm
+expansive			: extensive and covering all bases ; sociable
+surly 				: bad-tempered
+chortle				: laugh merrily
+raillery			: good humored teasing
+pyrrhic				: a victory at too large a cost
+fleece				: deceive
+sangfroid			: calm under pressure ; aplomb
+redoubtable			: formidable as an opponent
+leery				: cautious due to realistic suspicions ; (usage - a city leery of gang violence)
+defray				: pay cost of
+underwrite			: support financially
+winsome				: attractive and charming
+pillory				: ridicule publicly
+quisling			: traitor
+posit 				: assume as a fact to start a discussion/argument
+delineate			: describe in detail
+bereft of 			: lacking in
+archetype			: a typical example
+appropriated		: take without permission
+proxy				: a substitute
+poise 				: grace and elegance ; confidence
+rhetoric			: oratory ; language used to enthuse
+captious			: very critical
+appurtenant			: pertinent ; belonging ; (usage - files appurtenant to the building)
+simulacrum			: a bad imitation
+remonstrate			: protest vehemently
+desideratum			: necessity ; requirement ; (usage - integrity was a desideratum)
+canard				: a false report or story
+doughty				: brave and persistent
+smattering			: a small amount of something ; (usage - a smattering of snow)
+beatific			: a blissfully happy feeling
+devolve				: delegate ; (usage - his powers devolved to his subordinates)
+feted				: glorified and celebrated ; (usage - the instant celeb was feted by the media)
+impute 				: attribute ; ascribe ; (usage - the crimes imputed to Jon Doe)
+extricate			: free someone ; release ; disentangle
+fluster				: confuse ; confound ; unsettle
+sleuthing			: investigate ; carry out a search
+plebeian			: belonging to lower-class
+proletarian			: belonging to lower-class
+secular				: not connected with religious matters
+nebulous			: vague and ill-defined
+temporal			: relating to worldly issues as opposed to religious issues
+pervasive			: widespread
+remiss				: negligent
+dogma 				: set of principles
+candor				: frankness ; candidness
+deportment			: behavior and mannerisms
+temperate			: restrained and controlled ; moderate
+chary 				: cautious and circumspect
+ostensibly			: apparently
+congenial			: like-minded person
+conversant			: knowledgeable about something
+calamitous			: catastrophic
+licentious			: unprincipled in sexual matters ; promiscuous
+reliquary			: a container for holy relics
+accrue				: accumulate (money or benefits) over time
+adjure				: request someone earnestly to do something
+pronouncement		: a formal announcement or declaration
+proclamation		: a formal announcement or declaration
+disbursement		: payment of money
+presentiment		: an intuitive feeling about the future
+cull 				: obtain from a variety of sources ; reduce the population by selective slaughter
+consort				: companion
+imbue				: inspire or relate with (a feeling or quality)
+insuperable			: impossible to overcome
+chasten				: subdue or flatten or humble
+categorical			: unambiguously explicit and direct
+unqualified			: unambiguously explicit and direct
+dispassionate		: not influenced by emotion and hence rational and unbiased
+exhilarating		: making one very happy and thrilled
+poltroon			: coward
+astute				: sharp-witted and intelligent
+parlous				: perilous
+gesticulation		: a gesture used instead of speaking
+oligarchy			: a constitution in which power rests with a small group
+neoteric			: modern and recent
+resplendent			: bright and showy (positive)
+garish				: bright and showy (positive)
+lurid				: unpleasantly bright in color
+sumptuous			: splendid and expensive looking
+punitive 			: intended as a punishment
+unremitting			: unstopping ; incessant
+disquieting			: making one feel anxious ; qualms
+blandishment		: a flattering statement
+cajole				: persuade someone to do something through flattery
+importune			: harass someone persistently to do something
+plangent			: a loud and mournful sound (e.g. of a harpsichord)
+defection			: the desertion of one's country or cause in favor of an opposing one
+dispel 				: make something (a doubt, a feeling) disappear
+tenuous				: very weak and insubstantial
+consternation		: a feeling of anxiety or dismay, typically at something unexpected
+recalcitrant		: uncooperative
+sojourn				: a temporary stay
+minatory			: threatening and menacing
+palliative			: relieving pain without dealing with the cause
+asphyxiation		: deprived of oxygen
+rectitude			: morally correct behavior
+commingle			: mix and blend
+aggrandize			: increase the power/status of
+perquisite			: perk/benefit of a job/status
+aegis				: protection, backing or support of a person/organization
+partisanship		: bias in favor of
+posture				: behave in a way to impress or mislead
+notwithstanding		: in spite of
+ill at ease 		: uncomfortable or embarrassed

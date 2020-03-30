@@ -2,7 +2,7 @@
 
 Overwhelmed by those scary GRE/GMAT words?
 
-![cry](https://media.giphy.com/media/3oriO8RY4erFEUpHZm/giphy.gif)
+![cry](https://media.giphy.com/media/d2lcHJTG5Tscg/giphy.gif)
 
 Wondering how to get started? Which brand to trust?Can I do it?
 
